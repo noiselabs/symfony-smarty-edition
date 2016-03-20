@@ -1,0 +1,20 @@
+{
+    "name": "noiselabs/symfony-smarty-edition",
+    "description": "The Symfony Smarty Edition is a sandbox for testing SmartyBundle features",
+    "type": "project",
+    "require": {
+        "symfony/symfony": "^3.0",
+        "sensio/distribution-bundle": "^5.0",
+        "sensio/framework-extra-bundle": "^3.0"
+    },
+    "require-dev": {
+        "symfony/phpunit-bridge": "^3.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Vítor Brandão",
+            "email": "vitor@noiselabs.org"
+        }
+    ]
+}
